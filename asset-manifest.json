@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mohsin-Ali-Task/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Mohsin-Ali-Task/static/js/main.729b2114.chunk.js",
+    "main.js.map": "/Mohsin-Ali-Task/static/js/main.729b2114.chunk.js.map",
+    "runtime-main.js": "/Mohsin-Ali-Task/static/js/runtime-main.b6b7fa28.js",
+    "runtime-main.js.map": "/Mohsin-Ali-Task/static/js/runtime-main.b6b7fa28.js.map",
+    "static/js/2.208607ba.chunk.js": "/Mohsin-Ali-Task/static/js/2.208607ba.chunk.js",
+    "static/js/2.208607ba.chunk.js.map": "/Mohsin-Ali-Task/static/js/2.208607ba.chunk.js.map",
+    "static/js/3.86b2cc1f.chunk.js": "/Mohsin-Ali-Task/static/js/3.86b2cc1f.chunk.js",
+    "static/js/3.86b2cc1f.chunk.js.map": "/Mohsin-Ali-Task/static/js/3.86b2cc1f.chunk.js.map",
+    "index.html": "/Mohsin-Ali-Task/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Mohsin-Ali-Task/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.208607ba.chunk.js.LICENSE.txt": "/Mohsin-Ali-Task/static/js/2.208607ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b7fa28.js",
+    "static/js/2.208607ba.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.729b2114.chunk.js"
+  ]
+}
